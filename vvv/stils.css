@@ -1,0 +1,32 @@
+.virsraksts2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; MARGIN-LEFT: 20px; COLOR: black; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: none
+}
+
+.tekstsM {
+	FONT-SIZE: 16px; MARGIN-LEFT: 1px; COLOR: black; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: none
+	}
+
+.virsraksts {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; MARGIN-LEFT: 20px; COLOR: black; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: none
+}
+.teksts {
+	FONT-SIZE: 12px; MARGIN-LEFT: 1px; COLOR: black; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: none
+}
+.tabulas_virsraksts {
+	FONT-SIZE: 10px; COLOR: blue; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: none
+}
+.bildes_virsraksts {
+	FONT-SIZE: 10px; COLOR: gray; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: none
+}
+A {
+	FONT-SIZE: 12px; COLOR: gray; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: underline
+}
+A:visited {
+	FONT-SIZE: 12px; COLOR: gray; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: none
+}
+A:active {
+	FONT-SIZE: 12px; COLOR: #ffcc00; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 12px; COLOR: #ffcc00; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: none
+}
